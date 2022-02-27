@@ -21,8 +21,8 @@ terminal command : python3 nodeGame.py <br>
 this is used to play one game <br>
 terminal command : python3 nodeGame.py 5 <br>
 the argument 5 means that i will play the game 5 times <br>
-Enter null if there is no solution
-Enter exit to end program
+Enter null if there is no solution <br>
+Enter exit to end program <br>
 Enter answer in this format : 100,220,-90,110 
 
 # Updates Coming
