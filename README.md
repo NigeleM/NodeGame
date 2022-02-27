@@ -17,10 +17,10 @@ Still working on the mechanics of the game
 As long as your numbers add up to 100 from the list, You will be ok
 
 # Commands and running the game
-terminal command : python3 nodeGame.py 
-this is used to play one game
-terminal command : python3 nodeGame.py 5
-the argument 5 means that i will play the game 5 times
+terminal command : python3 nodeGame.py <br>
+this is used to play one game <br>
+terminal command : python3 nodeGame.py 5 <br>
+the argument 5 means that i will play the game 5 times <br>
 Enter null if there is no solution
 Enter exit to end program
 Enter answer in this format : 100,220,-90,110 
